@@ -1,4 +1,4 @@
 # Aobut ME
 ## hi I'am Ravela Dhanalaxmi 
-This is demo1 file
-Which i created to know about the merge,merge confilcts resolving and reverse merge
+am a Student of JNTUH jagtial enginnerng 
+
